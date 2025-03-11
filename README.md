@@ -1,2 +1,3 @@
 # rwd-media-musings-demo
- Media Musings - Responsive 
+
+This is the Github Repo for my media musings assignment
